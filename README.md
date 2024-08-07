@@ -1,5 +1,10 @@
 
 # Olá! Eu sou o Ruan Marcelo 😄
+<ul>
+    <li> Atualmente cursando Analise e Desenvolvimento de Sistemas No SENAI </li>
+    <li> Cursando o Ensino Médio </li>
+    <li></li>
+</ul>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruan.luzzz/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-marcelo/)
