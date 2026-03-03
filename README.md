@@ -3,14 +3,12 @@
 </div>
 
 ###
+<h1 align="center">Hi👋! My name is Ruan and I'm a Full Stack Developer ...</h1>
+
 
 <p align="center">
   <img height="180" src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif" />
 </p>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif"  />
 
 <div align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Ruan-Marcelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -72,15 +70,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruan-marcelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruan-marcelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruan-Marcelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruan-marcelo/ruan-marcelo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruan-marcelo/ruan-marcelo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ruan-marcelo/ruan-marcelo/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruan-Marcelo/Ruan-Marcelo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruan-Marcelo/Ruan-Marcelo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ruan-marcelo/Ruan-Marcelo/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
