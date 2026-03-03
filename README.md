@@ -4,7 +4,9 @@
 
 ###
 
-<h1 align="center">Hi👋! My name is Ruan and I'm a Full Stack Developer ...</h1>
+<p align="center">
+  <img height="180" src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif" />
+</p>
 
 ###
 
@@ -53,9 +55,17 @@
 ###
 
 <div align="center">
- <a src="www.linkedin.com/in/ruan-marcelo"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
- <a >   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /> </a>
-  <a src="https://www.instagram.com/ruan.luzzz">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> </a>
+  <a href="https://www.linkedin.com/in/ruan-marcelo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+
+  <a href="https://discord.com/users/SEU_ID_AQUI" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
+  </a>
+
+  <a href="https://www.instagram.com/ruan.luzzz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
+  </a>
 </div>
 
 ###
