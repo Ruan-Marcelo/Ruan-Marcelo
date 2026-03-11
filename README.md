@@ -3,11 +3,17 @@
   <img src="https://img.shields.io/github/stars/Ruan-Marcelo?style=social" />
   <img src="https://img.shields.io/github/last-commit/Ruan-Marcelo/Ruan-Marcelo" />
   <img src="https://komarev.com/ghpvc/?username=Ruan-Marcelo&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Code%20Time-Coming%20Soon-blue"/>
+  <img src="https://img.shields.io/github/stars/Ruan-Marcelo?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Ruan-Marcelo?style=for-the-badge"/>
 </p>
 
 ###
 <h1 align="center">Hi👋! My name is Ruan and I'm a Full Stack Developer ...</h1>
 <h3 align="center">Software Developer | Cloud & Cybersecurity Enthusiast</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=BD93F9&size=30&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Computing;Cybersecurity+Enthusiast;Welcome+to+my+GitHub"/>
+</p>
 
 
 <p align="center">
@@ -124,3 +130,6 @@
 
 ###
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruan-Marcelo&theme=dracula&hide_border=true"/>
+</p>
