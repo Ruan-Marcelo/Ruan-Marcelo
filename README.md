@@ -16,10 +16,33 @@
 </p>
 
 
-<p align="center">
-  <img height="180" src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif" />
+<table align="center">
+<tr>
+
+<td width="200" align="center">
+
+<img src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif" height="160"/>
+
+</td>
+
+<td align="left">
+
+<h3>🌐 My Website</h3>
+
+<p>
+<a href="https://zruanzito.com.br" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20Visit%20zruanzito.com.br-7B2CFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
+<img src="https://img.shields.io/badge/Full%20Stack-Projects-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-Computing-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-green?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
 <!-- <div align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Ruan-Marcelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruan-Marcelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
