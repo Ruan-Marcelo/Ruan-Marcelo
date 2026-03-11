@@ -129,3 +129,21 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruan-Marcelo&theme=dracula&hide_border=true"/>
 </p>
+
+<p align="center">
+Thanks for stopping by my GitHub profile 🚀
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Thanks%20for%20visiting%20my%20GitHub%20profile!-7B2CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=7B2CFF"/>
+</p>
+
+<p align="center">
+<a href="https://zruanzito.com.br">
+<img src="https://img.shields.io/badge/Visit%20My%20Website-zruanzito.com.br-7B2CFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CFF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
+</p>
