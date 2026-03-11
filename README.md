@@ -4,15 +4,15 @@
   <img src="https://img.shields.io/github/last-commit/Ruan-Marcelo/Ruan-Marcelo" />
   <img src="https://komarev.com/ghpvc/?username=Ruan-Marcelo&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/badge/Code%20Time-Coming%20Soon-blue"/>
-  <img src="https://img.shields.io/github/stars/Ruan-Marcelo?style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Ruan-Marcelo?style=for-the-badge"/>
 </p>
 
 ###
 <h1 align="center">Hi👋! My name is Ruan and I'm a Full Stack Developer ...</h1>
 <h3 align="center">Software Developer | Cloud & Cybersecurity Enthusiast</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=BD93F9&size=30&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Computing;Cybersecurity+Enthusiast;Welcome+to+my+GitHub"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Cybersecurity+Student;Welcome+to+my+GitHub"/>
+</p>
 </p>
 
 
@@ -24,7 +24,7 @@
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Ruan-Marcelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruan-Marcelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
 </div> -->
-
+<h3 align="center">⚡ Tech Stack</h3>
 <p align="center">
 
 <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green"/>
@@ -37,36 +37,9 @@
 
 </p>
 
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,js,python,mysql,aws,gcp,html,css,bootstrap,vscode,visualstudio"/>
+</p>
 
 ###
 
