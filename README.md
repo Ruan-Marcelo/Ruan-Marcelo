@@ -4,6 +4,7 @@
 
 ###
 <h1 align="center">Hi👋! My name is Ruan and I'm a Full Stack Developer ...</h1>
+<h3 align="center">Software Developer | Cloud & Cybersecurity Enthusiast</h3>
 
 
 <p align="center">
@@ -48,9 +49,22 @@
 
 ###
 
-<h6 align="center">Cibersegurança na nuvem<br>Desenvolvedor Web<br>Desenvolvedor Back-End<br>Desenvolvimento de Aplicativos Android<br>Google Cloud<br>Amazon AWS<br>Cursando Superior de Análise e Desenvolvimento de Sistemas<br>Técnico em Desenvolvimento de Sistemas<br>Power BI </h6>
+<h3 align="center">🎓 Education & Interests</h3>
+
+<p align="center">
+🎓 Systems Analysis and Development Student – SENAI<br>
+💻 Technical Degree in Systems Development – SENAI<br>
+☁️ Cloud Computing (Google Cloud & AWS)<br>
+🔐 Cybersecurity<br>
+🌐 Web Development (Frontend & Backend)<br>
+📱 Android App Development<br>
+📊 Data Analysis with Power BI
+</p>
 
 ###
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ruan-Marcelo&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Marcelo&layout=compact&theme=dracula"/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ruan-marcelo" target="_blank">
