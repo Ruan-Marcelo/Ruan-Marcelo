@@ -139,7 +139,7 @@ Thanks for stopping by my GitHub profile 🚀
 
 If you liked my project, consider supporting it 👇
 
-<a href="buymeacoffee.com/ruanluz">
+<a href="https://buymeacoffee.com/ruanluz">
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000">
 </a>
 </div>
