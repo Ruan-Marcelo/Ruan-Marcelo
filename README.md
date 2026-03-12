@@ -134,6 +134,15 @@
 Thanks for stopping by my GitHub profile 🚀
 </p>
 
+<div align="center">
+ ☕ Support the Project
+
+If you liked my project, consider supporting it 👇
+
+<a href="buymeacoffee.com/ruanluz">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000">
+</a>
+</div>
 <p align="center">
 <img src="https://img.shields.io/badge/Thanks%20for%20visiting%20my%20GitHub%20profile!-7B2CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=7B2CFF"/>
 </p>
