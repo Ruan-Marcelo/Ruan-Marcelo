@@ -80,10 +80,10 @@
 <img src="https://skillicons.dev/icons?i=wordpress,shopify" title="WordPress" />
 
 <!-- IDEs / Ferramentas -->
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git" title="VSCode, Visual Studio, PyCharm, Git, github" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git" title="VSCode, Visual Studio, PyCharm,github, Git" />
 
 <!-- Sistemas Operacionais -->
-<img src="https://skillicons.dev/icons?i=windows,kali,linux" title="Windows, Kali Linux, Linux" />
+<img src="https://skillicons.dev/icons?i=windows,kali,linux" title="powershell, Windows, Kali Linux, Linux" />
 </p>
 
 ###
