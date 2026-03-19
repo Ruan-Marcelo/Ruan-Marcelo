@@ -61,9 +61,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,js,python,supabase,flutter,dart,mysql,aws,gcp,html,css,git,bootstrap,tailwindcss,vscode,visualstudio,pycharm,netlify,windows,kali,linux"/>
-  
-
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,js,python,flutter,dart,mysql,supabase,aws,gcp,html,css,git,bootstrap,tailwindcss,vscode,visualstudio,pycharm,windows,kali,linux,vercel,netlify"/>
 </p>
 
 ###
