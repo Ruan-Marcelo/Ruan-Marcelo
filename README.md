@@ -61,7 +61,29 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,js,python,flutter,dart,mysql,supabase,aws,gcp,html,css,git,bootstrap,tailwindcss,vscode,visualstudio,pycharm,windows,kali,linux,vercel,netlify"/>
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,python,nodejs" title="C#, .NET, PHP, Python, Node.js" />
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwindcss" title="JavaScript, HTML, CSS, Bootstrap, TailwindCSS" />
+
+<!-- Mobile -->
+<img src="https://skillicons.dev/icons?i=flutter,dart" title="Flutter, Dart" />
+
+<!-- Banco de Dados -->
+<img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb" title="MySQL, Supabase" />
+
+<!-- Cloud / Deploy -->
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,docker" title="AWS, GCP, Vercel, Netlify, Docker" />
+
+<!-- CMS / Plataformas Web -->
+<img src="https://skillicons.dev/icons?i=wordpress,shopify" title="WordPress" />
+
+<!-- IDEs / Ferramentas -->
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git" title="VSCode, Visual Studio, PyCharm, Git, github" />
+
+<!-- Sistemas Operacionais -->
+<img src="https://skillicons.dev/icons?i=windows,kali,linux" title="Windows, Kali Linux, Linux" />
 </p>
 
 ###
