@@ -84,7 +84,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Marcelo&show_icons=true&theme=dracula&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Marcelo&layout=compact&theme=dracula&hide=html,css,java,cpp,c,typescript,php,go,ruby"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Marcelo&layout=compact&theme=dracula&hide=html,css,javascript,typescript,scss,less"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Marcelo&theme=dracula&hide_border=true"/>
 
 </div>
