@@ -56,7 +56,7 @@
 
 <img src="https://img.shields.io/badge/Web%20Development-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Data%20Analysis-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<!-- <img src="https://img.shields.io/badge/Data%20Analysis-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> -->
 
 </p>
 
@@ -65,25 +65,25 @@
 <img src="https://skillicons.dev/icons?i=cs,dotnet,php,python,nodejs" title="C#, .NET, PHP, Python, Node.js" />
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwindcss" title="JavaScript, HTML, CSS, Bootstrap, TailwindCSS" />
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwindcss,angular" title="JavaScript, HTML, CSS, Bootstrap, TailwindCSS" />
 
 <!-- Mobile -->
 <img src="https://skillicons.dev/icons?i=flutter,dart" title="Flutter, Dart" />
 
 <!-- Banco de Dados -->
-<img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb" title="MySQL, Supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb" title="MySQL, Supabase, Mongodb" />
 
 <!-- Cloud / Deploy -->
 <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,docker" title="AWS, GCP, Vercel, Netlify, Docker" />
 
 <!-- CMS / Plataformas Web -->
-<img src="https://skillicons.dev/icons?i=wordpress,shopify" title="WordPress" />
+<img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" />
 
 <!-- IDEs / Ferramentas -->
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git" title="VSCode, Visual Studio, PyCharm,github, Git" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,github" title="VSCode, Visual Studio, PyCharm,github, Git, GitHub" />
 
 <!-- Sistemas Operacionais -->
-<img src="https://skillicons.dev/icons?i=windows,kali,linux" title="powershell, Windows, Kali Linux, Linux" />
+<img src="https://skillicons.dev/icons?i=powershell,windows,kali,linux" title="Powershell, Windows, Kali Linux, Linux" />
 </p>
 
 ###
@@ -91,13 +91,12 @@
 <h3 align="center">🎓 Education & Interests</h3>
 
 <p align="center">
-🎓 Systems Analysis and Development Student – SENAI<br>
-💻 Technical Degree in Systems Development – SENAI<br>
-☁️ Cloud Computing (Google Cloud & AWS)<br>
-🔐 Cybersecurity<br>
-🌐 Web Development (Frontend & Backend)<br>
-📱 Android App Development<br>
-📊 Data Analysis with Power BI
+🎓 Systems Analysis & Development @ SENAI<br>
+💡 Focus: Full Stack Development & Cloud Architecture<br>
+☁️ AWS & Google Cloud (Hands-on Projects)<br>
+🔐 Cybersecurity & Ethical Hacking<br>
+📊 Data Analysis with Power BI<br>
+🚀 Building scalable web & mobile applications
 </p>
 
 ###
@@ -158,7 +157,7 @@ Thanks for stopping by my GitHub profile 🚀
 </p>
 
 <div align="center">
- ☕ Support the Project
+⭐ Star my repositories if you like my work
 
 If you liked my project, consider supporting it 👇
 
