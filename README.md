@@ -7,8 +7,11 @@
 </p>
 
 ###
-<h1 align="center">Hi👋! My name is Ruan and I'm a Full Stack Developer ...</h1>
-<h3 align="center">Software Developer | Cloud & Cybersecurity Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm Ruan</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer focused on Angular, .NET & Cloud Solutions  
+</h3>
 <p align="center">
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Cybersecurity+Student;Welcome+to+my+GitHub"/>
@@ -47,12 +50,10 @@
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Ruan-Marcelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruan-Marcelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
 </div> -->
-<h3 align="center">⚡ Tech Stack</h3>
+<h3 align="center">⚡ Core Stack</h3>
 <p align="center">
 
 <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green"/>
-
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=icloud&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Web%20Development-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
@@ -61,29 +62,28 @@
 </p>
 
 <p align="center">
+
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,python,nodejs" title="C#, .NET, PHP, Python, Node.js" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet" title="C#, .NET, php" />
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwindcss,angular" title="JavaScript, HTML, CSS, Bootstrap, TailwindCSS" />
-
-<!-- Mobile -->
-<img src="https://skillicons.dev/icons?i=flutter,dart" title="Flutter, Dart" />
+<img src="https://skillicons.dev/icons?i=angular,js,html,css" title="Angular, JavaScript, HTML, CSS" />
 
 <!-- Banco de Dados -->
-<img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb" title="MySQL, Supabase, Mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 
-<!-- Cloud / Deploy -->
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,docker" title="AWS, GCP, Vercel, Netlify, Docker" />
+<!-- Ferramentas -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" title="Git, GitHub, VSCode, Postman" />
 
-<!-- CMS / Plataformas Web -->
-<img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" />
+</p>
 
-<!-- IDEs / Ferramentas -->
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,github" title="VSCode, Visual Studio, PyCharm,github, Git, GitHub" />
+---
 
-<!-- Sistemas Operacionais -->
-<img src="https://skillicons.dev/icons?i=powershell,windows,kali,linux" title="Powershell, Windows, Kali Linux, Linux" />
+<p align="center">
+
+<!-- Aprendendo -->
+<img src="https://skillicons.dev/icons?i=aws,docker" title="AWS, Docker (learning)" />
+
 </p>
 
 ###
@@ -91,21 +91,22 @@
 <h3 align="center">🎓 Education & Interests</h3>
 
 <p align="center">
-🎓 Systems Analysis & Development @ SENAI<br>
-💡 Focus: Full Stack Development & Cloud Architecture<br>
-☁️ AWS & Google Cloud (Hands-on Projects)<br>
-🔐 Cybersecurity & Ethical Hacking<br>
-📊 Data Analysis with Power BI<br>
-🚀 Building scalable web & mobile applications
+💻 Frontend: Angular, TypeScript, HTML, CSS  </br>
+⚙️ Backend: .NET (c#) </br>
+🗄️ Database: MySQL, SQL Server  </br>
+☁️ Cloud: AWS (learning)  </br>
+🔐 Security: Cybersecurity fundamentals </br>
 </p>
 
 ###
 
+
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Marcelo&show_icons=true&theme=dracula&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ruan-Marcelo&show_icons=true&theme=dracula&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Marcelo&layout=compact&theme=dracula&hide=html,css,javascript,typescript,scss,less"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ruan-Marcelo&layout=compact&theme=dracula&hide=html,css,javascript,typescript"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Marcelo&theme=dracula&hide_border=true"/>
 
 </div>
@@ -153,7 +154,8 @@
 </p>
 
 <p align="center">
-Thanks for stopping by my GitHub profile 🚀
+🚀 Building real-world applications and continuously evolving as a developer  
+If you like my work, consider giving a ⭐ on my repositories!
 </p>
 
 <div align="center">
