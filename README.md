@@ -10,7 +10,7 @@
 <h1 align="center">👋 Hey, I'm Ruan</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer focused on Angular, .NET & Cloud Solutions  
+Full Stack Developer | Angular • .NET • Cloud | Building Scalable Web Applications
 </h3>
 <p align="center">
 <p align="center">
@@ -107,6 +107,7 @@
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ruan-Marcelo&show_icons=true&theme=dracula&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ruan-Marcelo&layout=compact&theme=dracula&hide=html,css,javascript,typescript"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Marcelo&theme=dracula&hide_border=true"/>
 
 </div>
