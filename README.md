@@ -88,6 +88,7 @@ Full Stack Developer | Angular • .NET • Cloud | Building Scalable Web Applic
 
 ###
 
+<!-- 
 <h3 align="center">🎓 Education & Interests</h3>
 
 <p align="center">
@@ -133,7 +134,7 @@ Full Stack Developer | Angular • .NET • Cloud | Building Scalable Web Applic
   <img src="https://github-readme-stats.vercel.app/api?username=Ruan-Marcelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruan-Marcelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
--->
+
 
 ###
 
@@ -153,7 +154,7 @@ Full Stack Developer | Angular • .NET • Cloud | Building Scalable Web Applic
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruan-Marcelo&theme=dracula&hide_border=true"/>
 </p>
-
+-->
 <p align="center">
 🚀 Building real-world applications and continuously evolving as a developer  
 If you like my work, consider giving a ⭐ on my repositories!
