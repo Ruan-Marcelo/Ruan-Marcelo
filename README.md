@@ -67,22 +67,17 @@ Full Stack Developer | Angular • .NET • Cloud | Building Scalable Web Applic
 <img src="https://skillicons.dev/icons?i=cs,dotnet" title="C#, .NET, php" />
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=angular,js,html,css" title="Angular, JavaScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,js,ts" title="Angular, JavaScript,,ts,bootstrap" />
+
 
 <!-- Banco de Dados -->
 <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 
 <!-- Ferramentas -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" title="Git, GitHub, VSCode, Postman" />
-
-</p>
-
----
-
-<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman" title="Git, GitHub, Postman" />
 
 <!-- Aprendendo -->
-<img src="https://skillicons.dev/icons?i=aws,docker" title="AWS, Docker (learning)" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" title="AWS,Cloud,azure" />
 
 </p>
 
