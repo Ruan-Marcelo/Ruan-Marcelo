@@ -10,7 +10,7 @@
 <h1 align="center">👋 Hey, I'm Ruan</h1>
 
 <h3 align="center">
-Full Stack Developer | Angular • .NET • Cloud | Building Scalable Web Applications
+Full Stack Web Developer | C# .NET | Angular | TypeScript | SQL 
 </h3>
 <p align="center">
 <p align="center">
