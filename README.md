@@ -154,7 +154,24 @@ Full Stack Developer | Angular • .NET • Cloud | Building Scalable Web Applic
 🚀 Building real-world applications and continuously evolving as a developer  
 If you like my work, consider giving a ⭐ on my repositories!
 </p>
+<h3 align="center">📬 Contact Me</h3>
 
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ruan-marcelo/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/ruan.luzzz/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="instagram"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:blackingody@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="email"/>
+  </a>
+</p>
 <div align="center">
 ⭐ Star my repositories if you like my work
 
