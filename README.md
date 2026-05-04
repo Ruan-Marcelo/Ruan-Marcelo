@@ -20,6 +20,7 @@ Full Stack Web Developer | C# .NET | Angular | TypeScript | SQL
 </p>
 
 
+
 <table align="center">
 <tr>
 
