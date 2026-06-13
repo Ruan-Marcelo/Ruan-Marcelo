@@ -66,20 +66,17 @@ Full Stack Web Developer | C# .NET | Angular | TypeScript | SQL
 <p align="center">
 
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=cs,dotnet" title="C#, .NET, php" />
+<img src="https://skillicons.dev/icons?i=cs,python" title="C#,python" />
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,js,ts" title="Angular, JavaScript,,ts,bootstrap" />
+<img src="https://skillicons.dev/icons?i=angular,js" title="Angular,JavaScript" />
 
 
 <!-- Banco de Dados -->
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-
-<!-- Ferramentas -->
-<img src="https://skillicons.dev/icons?i=git,github,postman" title="Git, GitHub, Postman" />
+<img src="https://skillicons.dev/icons?i=mysql,mongo" title="MySQL, MONGODB" />
 
 <!-- Aprendendo -->
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" title="AWS,Cloud,azure" />
+<img src="https://skillicons.dev/icons?i=aws,azure" title="AWS,Cloud,azure" />
 
 </p>
 
@@ -197,6 +194,12 @@ If you liked my project, consider supporting it 👇
 <img src="https://img.shields.io/badge/Visit%20My%20Website-zruanzito.com.br-7B2CFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Marcelo&layout=compact&theme=dracula&hide_border=true&hide=html,css"
+/>
+
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CFF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
